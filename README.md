@@ -2,6 +2,26 @@
 
 Treble is a football match organization platform designed to help players discover local games, reserve places, and communicate with other participants. It brings match schedules, venue information, bookings and organizer tools into one application. The interface is primarily in Uzbek.
 
+## 📲 Download Treble — Beta Access
+
+Treble is currently in a 14-day closed beta testing phase on Google Play. The app is not yet available for general public installation.
+
+[![Join the tester group](https://img.shields.io/badge/Step_1-Join_Tester_Group-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://groups.google.com/g/treble_tester)
+[![Join the Google Play beta](https://img.shields.io/badge/Step_2-Google_Play_Beta-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/apps/testing/com.shoxjaxon.treble)
+
+### How to install
+
+1. Join the [Treble Testers Google Group](https://groups.google.com/g/treble_tester).
+2. Open the [Google Play beta testing link](https://play.google.com/apps/testing/com.shoxjaxon.treble) and opt in to the test.
+3. Follow the Google Play instructions to download and install Treble on your Android device.
+4. Explore the app and share your feedback.
+
+Use the same Google account for joining the group, opting in and installing the app. Access is subject to the closed testing requirements.
+
+Your feedback helps improve Treble before its public release.
+
+**Find. Play. Connect.** ⚽
+
 ## Features in the source code
 
 - Browse matches and venues; reserve or cancel a place and view personal bookings.
@@ -34,7 +54,7 @@ See [backend setup](backend/README.md) for more information.
 
 ## Project status
 
-This repository is an initial public-source snapshot. No download counts, active-user figures, or external adoption metrics are claimed here. The original development and hosting configuration is not included. The Android build and external integrations need validation in the developer's own environment.
+This repository is an initial public-source snapshot. The Android app is currently in closed beta testing on Google Play. No download counts, active-user figures, or external adoption metrics are claimed here. The original development and hosting configuration is not included. The Android build and external integrations need validation in the developer's own environment.
 
 ## Security and privacy
 
