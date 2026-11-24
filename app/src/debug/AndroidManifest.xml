@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Faqat debug (Android Studio'da Run) versiyada: sinov serveriga oddiy http orqali ulanishga ruxsat.
+         Tayyor (release) ilovada bu yo'q, u faqat https ishlatadi. -->
+    <application
+        android:usesCleartextTraffic="true"
+        tools:ignore="InsecureBaseConfiguration" />
+
+</manifest>

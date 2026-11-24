@@ -1,0 +1,13 @@
+{
+  "name": "treble-sms-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Treble serveri: hisoblar, o'yinlar, SMS tasdiqlash",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
