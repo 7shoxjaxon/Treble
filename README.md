@@ -64,3 +64,11 @@ Never commit real credentials, signing keys, user databases, uploads or private 
 
 No open-source license has been selected in this snapshot. Public visibility does not itself grant permission to reuse the code. The project owner should select a license after confirming rights to all included assets and code.
 [Official website — treble.uz](https://treble.uz)
+
+## Roadmap
+
+- [ ] Improve user interface
+- [ ] Add match notifications
+- [ ] Improve match discovery
+- [ ] Add player ratings
+- [ ] Official Google Play release
